@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Instructor\Activity1BL\bin\Debug\Activity1BL.dll
+C:\Users\hp\source\repos\Instructor\Activity1BL\bin\Debug\Activity1BL.pdb
+C:\Users\hp\source\repos\Instructor\Activity1BL\obj\Debug\Activity1BL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Instructor\Activity1BL\obj\Debug\Activity1BL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Instructor\Activity1BL\obj\Debug\Activity1BL.dll
+C:\Users\hp\source\repos\Instructor\Activity1BL\obj\Debug\Activity1BL.pdb

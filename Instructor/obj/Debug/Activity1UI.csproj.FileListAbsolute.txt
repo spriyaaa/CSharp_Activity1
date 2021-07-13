@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Instructor\Instructor\bin\Debug\Instructor.exe.config
+C:\Users\hp\source\repos\Instructor\Instructor\bin\Debug\Instructor.exe
+C:\Users\hp\source\repos\Instructor\Instructor\bin\Debug\Instructor.pdb
+C:\Users\hp\source\repos\Instructor\Instructor\bin\Debug\Activity1BL.dll
+C:\Users\hp\source\repos\Instructor\Instructor\bin\Debug\Activity1BL.pdb
+C:\Users\hp\source\repos\Instructor\Instructor\obj\Debug\Activity1UI.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Instructor\Instructor\obj\Debug\Activity1UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Instructor\Instructor\obj\Debug\Activity1UI.csproj.CopyComplete
+C:\Users\hp\source\repos\Instructor\Instructor\obj\Debug\Instructor.exe
+C:\Users\hp\source\repos\Instructor\Instructor\obj\Debug\Instructor.pdb
